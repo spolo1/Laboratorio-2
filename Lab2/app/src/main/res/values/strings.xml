@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="nombre">Nombres</string>
+    <string name="apellido">Apellidos</string>
+    <string name="edad">Edad</string>
+    <string name="genero">genero</string>
+    <string name="drecci">Dirección</string>
+    <string name="Datos">Datos personales</string>
+    <string name="sint">Sintomas</string>
+    <string name="tos">Tos</string>
+    <string name="cabeza">Dolor de cabeza</string>
+    <string name="Temperatura">Fiebre</string>
+    <string name="olfa">Perdida olfato</string>
+    <string name="gusto">Perdida gusto</string>
+    <string name="fat">Fatiga</string>
+    <string name="nas">Náuseas</string>
+    <string name="vom">Vómito</string>
+    <string name="dia">Diarrea</string>
+    <string name="sen">Enviar datos</string>
+    <string name="cor">Correo</string>
+</resources>
